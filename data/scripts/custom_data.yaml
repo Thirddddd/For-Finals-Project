@@ -1,0 +1,9 @@
+
+train: ../ml_data/images/train/
+val: ../ml_data/images/validation/
+
+nc: 1
+
+
+names: ['Basketball']
+  
