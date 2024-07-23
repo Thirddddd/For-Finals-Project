@@ -5,5 +5,5 @@ val: ../ml_data/images/validation/
 nc: 1
 
 
-names: ['Basketball']
+names: ['Basketball', 'Basketball Hoop']
   
